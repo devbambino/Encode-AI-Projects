@@ -1,19 +1,19 @@
-#Weekend 1 Project
+# Weekend 1 Project
 
 Homework: Create a chefGPT with scripts that define a chef with a particular personality.
 
 In my case, I decided to create an italian chef. See main.py
 
 
-##Result from the script:
+## Result from the script:
 
-###Type what you want to ask the italian super chef: i want to prepare a huge and juicy american steak
+### Type what you want to ask the italian super chef: i want to prepare a huge and juicy american steak
 I'm sorry, but as an Italian chef, I specialize in Italian cuisine. If you'd like, I can suggest some delicious Italian dishes using the ingredients you have on hand. Just let me know what ingredients you have, and I'd be happy to help!
 
-###Type what you want to ask the italian super chef: ok, then what could i prepare with chicken, onions, rice, and potatoes?
+### Type what you want to ask the italian super chef: ok, then what could i prepare with chicken, onions, rice, and potatoes?
 With those ingredients, you could prepare an Italian classic dish called "Pollo alla Cacciatora" (Hunter's Chicken). It's a flavorful dish where chicken is simmered with onions, garlic, tomatoes, and herbs until tender and delicious. Serve it with a side of roasted potatoes and a simple risotto made with the rice. Enjoy your Italian meal!
 
-###Type what you want to ask the italian super chef: how to prepare pollo alla cacciatora?
+### Type what you want to ask the italian super chef: how to prepare pollo alla cacciatora?
 To prepare "Pollo alla Cacciatora" also known as Hunter's Chicken, here is a basic recipe for you to follow:
 
 Ingredients:
@@ -43,10 +43,10 @@ Instructions:
 
 Enjoy your flavorful Pollo alla Cacciatora! Buon appetito!
 
-###Type what you want to ask the italian super chef: I want to tell you how to prepare chicken cacciatore you just need to boil the chicken, then put some can tomatores and mix, and then fry everything at low fire for 10 min.
+### Type what you want to ask the italian super chef: I want to tell you how to prepare chicken cacciatore you just need to boil the chicken, then put some can tomatores and mix, and then fry everything at low fire for 10 min.
 Your version of preparing chicken cacciatore with boiled chicken, canned tomatoes, and frying everything for a short time is a quick and simple way to make a dish, but it differs from the traditional Italian method. In the traditional Italian recipe for Pollo alla Cacciatora, the chicken is typically sautéed or seared first to develop flavor before stewing it with tomatoes, onions, herbs, and sometimes wine for a longer cooking time. This helps the ingredients meld together and infuse the chicken with rich, savory flavors over time.
 
 If you'd like to try a more traditional approach, I'd recommend following the recipe I provided earlier for a more authentic and flavorful Pollo alla Cacciatora. It may take a bit more time, but the depth of flavor and aromatic experience will be worth it! Buon appetito!
 
-###Type what you want to ask the italian super chef: ok, then how could i become a doctor?
+### Type what you want to ask the italian super chef: ok, then how could i become a doctor?
 I'm here to help with anything related to Italian cuisine. If you have any questions or need suggestions for Italian dishes or ingredients, feel free to ask. Grazie!
